@@ -4,14 +4,6 @@ How do my digital habits reflect how I spend my life, energy, and attention?
 
 A multi-platform personal analytics project built in Power BI, inspired by Spotify Wrapped. This report analyzes my real 2025 media consumption data across Netflix, Spotify, YouTube, and TikTok to uncover patterns in how I spend my time, attention, and energy on digital entertainment.
 
-## Project Status
-Platform                       Status 
-Netflix                        Complete
-Spotify                        In Progress
-YouTube                        In Progress
-TikTok                         In Progress
-Cross-Platform Comparison      In Progress
-
 ## Objective
 Analyze personal media consumption patterns to understand how digital entertainment shapes daily routines, energy levels, and time allocation — while demonstrating professional analytics practices in behavioral data analysis.
 
