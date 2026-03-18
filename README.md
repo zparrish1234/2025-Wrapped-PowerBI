@@ -28,7 +28,7 @@ Data Storytelling — narrative-driven report design
 All data was exported directly from each platform's personal data download feature. Raw data files are not included in this repository to protect personal privacy.
 
 ## Netflix — Report Pages
-![alt text](screenshots/netflix/KPI SS.png)
+![Hero Image](screenshots/netflix/KPI SS.png)
 1. Main KPI Overview
 A billboard-style summary page covering total hours watched, unique titles, completion rate, movies vs. shows breakdown, and viewing trend by season.
 2. Movies vs. TV Shows
