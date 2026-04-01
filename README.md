@@ -38,6 +38,18 @@ A deep dive into when I watch — peak hour, day of week, month, and season. Fea
 7. Netflix Summary
 A narrative closing page with key findings, hypothesis results, and a written interpretation of what the data says about my viewing habits.
 
+## YouTube — Report Pages
+![Hero Image](screenshots/Youtube/2025Overview.png)
+KPI cards: Total Views (W/O Ads), Ad Views, Ad Rate %, Unique Channels Watched, Total Subscriptions
+Number of Views by Year (line chart)
+Total Views by Channel (horizontal bar chart)
+Subscribed vs Unsubscribed vs Ad views (donut chart)
+### Key Takeaways
+-YouTube serves a lot of ads. At a 76% ad rate in 2025, I watched more than 3x as many ads as organic videos.
+-I'm an algorithm viewer. The majority of what I watch comes from channels I don't subscribe to — YouTube's recommendation engine drives most of my viewing.
+-The 2022 ad surge wasn't personal. YouTube significantly ramped up ad frequency and monetization reach that year, which explains the spike visible in the all-years data.
+-December is peak everything. Both ad views and organic views peak toward year-end, consistent with general increased screen time over the holiday period.
+
 ## Hypotheses Going In
 Short-form content (TikTok) dominates total attention time
 YouTube shows the highest platform loyalty and retention
