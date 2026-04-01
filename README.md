@@ -39,7 +39,7 @@ A deep dive into when I watch — peak hour, day of week, month, and season. Fea
 A narrative closing page with key findings, hypothesis results, and a written interpretation of what the data says about my viewing habits.
 
 ## YouTube — Report Pages
-![Hero Image](screenshots/Youtube/2025Overview.png)
+![Hero Image](screenshots/youtube/2025Overview.png)
 KPI cards: Total Views (W/O Ads), Ad Views, Ad Rate %, Unique Channels Watched, Total Subscriptions
 Number of Views by Year (line chart)
 Total Views by Channel (horizontal bar chart)
